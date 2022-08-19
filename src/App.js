@@ -6,7 +6,7 @@ import { Button } from "react-bootstrap";
 function App() {
   return (
     <>
-      <Button>click</Button>
+      <Button>اضغط</Button>
     </>
   );
 }
